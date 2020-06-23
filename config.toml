@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "blog.exinearn.cn"
 languageCode = "zh-CN"
-title = "水龙头"
+title = "水龙头ExinEarn"
 theme = "maupassant"
 
