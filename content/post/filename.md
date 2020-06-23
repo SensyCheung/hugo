@@ -1,7 +1,7 @@
 ---
 title: "水龙头ExinEarn：李笑来投资的网购奖励比特币平台"
 date: 2020-06-23T19:06:14+08:00
-draft: true
+draft: false
 ---
 水龙头ExinEarn是李笑来投资的网购奖励比特币平台，由区块链项目exin团队开发。
 
