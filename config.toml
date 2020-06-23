@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "zh-CN"
+title = "水龙头"
+theme = "maupassant"
+
